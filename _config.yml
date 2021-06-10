@@ -1,2 +1,8 @@
 url: https://brodinstitute.github.io
 baseurl: picard-test
+
+title: Picard
+description: A set of tools (in Java) for working with high-throughput sequencing (HTS) data and formats such as SAM/BAM/CRAM and VCF.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
